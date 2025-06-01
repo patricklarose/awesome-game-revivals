@@ -34,3 +34,6 @@ Custom client and launcher for *Battlefield: Bad Company 2*. Provides dedicated 
 
 ### [TurtleWoW](https://turtle-wow.org/)
 Private *World of Warcraft* server based on Vanilla WoW. Adds new quests, classes, races, and features while preserving the classic experience.
+
+### [Project 1999](https://www.project1999.com/)
+Classic EverQuest server recreating the 1999 - 2001 experience with original zones, mechanics, and difficulty.
