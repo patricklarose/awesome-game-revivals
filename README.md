@@ -1,2 +1,3 @@
-# awesome-game-revivals
-A curated list of open-source reimplementations, community remakes, modded clients, and private servers that revive classic games.
+# Awesome Game Revivals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of community projects, ports, remakes, mods, and private servers that revive classic games.
