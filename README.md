@@ -4,7 +4,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 
 ## Contents
 
-- [Remakes / Ports](#remakes-ports)
+- [Remakes / Ports](#remakes--ports)
 - [Multiplayer Mods](#multiplayer-mods)
 
 ## Remakes / Ports
