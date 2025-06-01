@@ -17,3 +17,20 @@ Compiles *Jak and Daxter* games (PS2) into a modern executable with widescreen, 
 
 ### [Clone Hero](https://clonehero.net/)
 *Guitar Hero* clone. Supports custom songs and original controllers.
+
+## Multiplayer Mods
+
+### [THUG Pro](https://thugpro.com/)
+Total conversion mod for *Tony Hawk’s Underground 2*, featuring levels from across the entire Tony Hawk franchise and multiplayer.
+
+### [Plutonium](https://plutonium.pw/)
+Custom client and launcher for *Call of Duty* titles (WAW, BO1, BO2, MW3). Provides dedicated servers, anti-cheat, and modding tools.
+
+### [Venice Unleashed](https://veniceunleashed.net/)
+Custom client and launcher for *Battlefield 3*. Provides dedicated servers, anti-cheat, and modding tools.
+
+### [Project Rome](https://veniceunleashed.net/project-rome)
+Custom client and launcher for *Battlefield: Bad Company 2*. Provides dedicated servers, anti-cheat, and modding tools.
+
+### [TurtleWoW](https://turtle-wow.org/)
+Private *World of Warcraft* server based on Vanilla WoW. Adds new quests, classes, races, and features while preserving the classic experience.
