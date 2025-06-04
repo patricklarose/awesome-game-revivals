@@ -6,6 +6,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 
 - [Remakes / Ports](#remakes--ports)
 - [Multiplayer Mods](#multiplayer-mods)
+- [Emulators](#emulators)
 
 ## Remakes / Ports  
 - **[OpenRCT2](https://openrct2.io/)** - Open-source re-implementation of *RollerCoaster Tycoon 2* with multiplayer, QoL improvements, and mod support.  
@@ -22,4 +23,6 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Venice Unleashed](https://veniceunleashed.net/)** - Custom client for *Battlefield 3* with dedicated servers, anti-cheat, and modding support.  
 - **[Project Rome](https://veniceunleashed.net/project-rome)** - Custom client for *Battlefield: Bad Company 2* with dedicated servers, anti-cheat, and modding support.  
 - **[TurtleWoW](https://turtle-wow.org/)** - Private *World of Warcraft* Vanilla server with added quests, classes, races, and features that maintain the classic experience.  
-- **[Project 1999](https://www.project1999.com/)** - Classic *EverQuest* server recreating the 1999–2001 experience with original zones, mechanics, and difficulty.  
+- **[Project 1999](https://www.project1999.com/)** - Classic *EverQuest* server recreating the 1999–2001 experience with original zones, mechanics, and difficulty.
+
+## Emulators
