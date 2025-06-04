@@ -27,4 +27,5 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 
 ## Emulators
 - **[Ruffle](https://ruffle.rs/)** - Flash Player emulator preserving classic Flash games and animations in modern browsers.  
-- **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.  
+- **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.
+- **[DOSBox](https://www.dosbox.com/)** - MS-DOS emulator for running classic DOS games and applications on modern systems.
