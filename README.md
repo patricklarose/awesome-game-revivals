@@ -14,6 +14,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.  
 - **[Meridian 59](https://www.meridian59.com/)** - Open-source server and client for *Meridian 59*, reviving the classic 3D MMORPG with modern compatibility.
 - **[OpenMW](https://openmw.org/)** - Completely rewritten engine for *The Elder Scrolls III: Morrowind*, offering stability fixes, cross-platform support, and extensive mod compatibility.
+- **[OpenLara](https://github.com/XProger/OpenLara)** - C++/OpenGL engine re-implementation of *Tomb Raider* (1996), running original levels on modern platforms with widescreen support.  
 
 ## Multiplayer Mods  
 - **[THUG Pro](https://thugpro.com/)** - Total conversion mod for *Tony Hawk’s Underground 2* with levels from the entire Tony Hawk franchise and multiplayer support.  
