@@ -30,6 +30,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.
 - **[DOSBox](https://www.dosbox.com/)** - MS-DOS emulator for running classic DOS games and applications on modern systems.
 - **[MAME](https://www.mamedev.org/)** - Arcade machine emulator supporting thousands of classic titles.
+- **[Dolphin](https://dolphin-emu.org/)** - GameCube/Wii emulator with HD support, widescreen hacks, and netplay.
 - **[PCSX2](https://pcsx2.net/)** - PlayStation 2 emulator enabling PS2 games to run on Windows/macOS/Linux.
 - **[RPCS3](https://rpcs3.net/)** - Open-source PlayStation 3 emulator with 60+ fps patches and 4K resolution scaling.
 - **[RetroArch](https://www.retroarch.com/)** - Open-source, cross-platform frontend for emulators and game engines, unifying multiple systems under one interface.
