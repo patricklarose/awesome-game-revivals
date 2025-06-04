@@ -26,3 +26,4 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Project 1999](https://www.project1999.com/)** - Classic *EverQuest* server recreating the 1999–2001 experience with original zones, mechanics, and difficulty.
 
 ## Emulators
+- **[Ruffle](https://ruffle.rs/)** - Flash Player emulator preserving classic Flash games and animations in modern browsers.  
