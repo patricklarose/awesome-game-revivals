@@ -29,7 +29,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Ruffle](https://ruffle.rs/)** - Flash Player emulator preserving classic Flash games and animations in modern browsers.  
 - **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.
 - **[DOSBox](https://www.dosbox.com/)** - MS-DOS emulator for running classic DOS games and applications on modern systems.
-- **[MAME](https://www.mamedev.org/)** - Arcade machine emulator supporting thousands of classic titles
+- **[MAME](https://www.mamedev.org/)** - Arcade machine emulator supporting thousands of classic titles.
 - **[PCSX2](https://pcsx2.net/)** - PlayStation 2 emulator enabling PS2 games to run on Windows/macOS/Linux.
 - **[RetroArch](https://www.retroarch.com/)** - Open-source, cross-platform frontend for emulators and game engines, unifying multiple systems under one interface.
 - **[EmuVR](https://www.emuvr.net/)** - VR interface for running retro games through existing emulators in customizable virtual environments.
