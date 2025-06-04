@@ -9,7 +9,8 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - [Emulators](#emulators)
 
 ## Remakes / Ports  
-- **[OpenRCT2](https://openrct2.io/)** - Open-source re-implementation of *RollerCoaster Tycoon 2* with multiplayer, QoL improvements, and mod support.  
+- **[OpenRCT2](https://openrct2.io/)** - Open-source re-implementation of *RollerCoaster Tycoon 2* with multiplayer, QoL improvements, and mod support.
+- **[OpenTTD](https://www.openttd.org/)** - Open-source re-implementation of *Transport Tycoon Deluxe* with multiplayer support and modern enhancements.
 - **[OpenGOAL](https://opengoal.dev/)** - Compiles *Jak and Daxter* (PS2) into a modern executable with widescreen, 60 fps, and debugging tools.  
 - **[Clone Hero](https://clonehero.net/)** - *Guitar Hero* clone with support for custom songs and original controllers.  
 - **[Meridian 59](https://www.meridian59.com/)** - Open-source server and client for *Meridian 59*, reviving the classic 3D MMORPG with modern compatibility.
