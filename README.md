@@ -12,7 +12,6 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[OpenRCT2](https://openrct2.io/)** - Open-source re-implementation of *RollerCoaster Tycoon 2* with multiplayer, QoL improvements, and mod support.  
 - **[OpenGOAL](https://opengoal.dev/)** - Compiles *Jak and Daxter* (PS2) into a modern executable with widescreen, 60 fps, and debugging tools.  
 - **[Clone Hero](https://clonehero.net/)** - *Guitar Hero* clone with support for custom songs and original controllers.  
-- **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.  
 - **[Meridian 59](https://www.meridian59.com/)** - Open-source server and client for *Meridian 59*, reviving the classic 3D MMORPG with modern compatibility.
 - **[OpenMW](https://openmw.org/)** - Completely rewritten engine for *The Elder Scrolls III: Morrowind*, offering stability fixes, cross-platform support, and extensive mod compatibility.
 - **[OpenLara](https://github.com/XProger/OpenLara)** - C++/OpenGL engine re-implementation of *Tomb Raider* (1996), running original levels on modern platforms with widescreen support.  
@@ -27,3 +26,4 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 
 ## Emulators
 - **[Ruffle](https://ruffle.rs/)** - Flash Player emulator preserving classic Flash games and animations in modern browsers.  
+- **[ScummVM](https://www.scummvm.org/)** - Emulator for classic point-and-click adventure games, supporting dozens of engines.  
