@@ -24,6 +24,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Project Rome](https://veniceunleashed.net/project-rome)** - Custom client for *Battlefield: Bad Company 2* with dedicated servers, anti-cheat, and modding support.  
 - **[TurtleWoW](https://turtle-wow.org/)** - Private *World of Warcraft* Vanilla server with added quests, classes, races, and features that maintain the classic experience.  
 - **[Project 1999](https://www.project1999.com/)** - Classic *EverQuest* server recreating the 1999–2001 experience with original zones, mechanics, and difficulty.
+- **[FiveM](https://fivem.net/)** - Custom multiplayer framework for *GTA V* enabling user-created servers, mods, and roleplay experiences.
 
 ## Emulators
 - **[Ruffle](https://ruffle.rs/)** - Flash Player emulator preserving classic Flash games and animations in modern browsers.  
