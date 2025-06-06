@@ -33,5 +33,6 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Dolphin](https://dolphin-emu.org/)** - GameCube/Wii emulator with HD support, widescreen hacks, and netplay.
 - **[PCSX2](https://pcsx2.net/)** - PlayStation 2 emulator enabling PS2 games to run on Windows/macOS/Linux.
 - **[RPCS3](https://rpcs3.net/)** - Open-source PlayStation 3 emulator with 60+ fps patches and 4K resolution scaling.
+- **[Xenia](https://xenia.jp/)** - Open-source Xbox 360 emulator delivering high accuracy and performance for playing commercial titles.
 - **[RetroArch](https://www.retroarch.com/)** - Open-source, cross-platform frontend for emulators and game engines, unifying multiple systems under one interface.
 - **[EmuVR](https://www.emuvr.net/)** - VR interface for running retro games through existing emulators in customizable virtual environments.
