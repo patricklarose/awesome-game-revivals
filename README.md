@@ -19,7 +19,8 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[OpenLara](https://github.com/XProger/OpenLara)** - C++/OpenGL engine re-implementation of *Tomb Raider* (1996), running original levels on modern platforms with widescreen support.  
 
 ## Multiplayer Mods  
-- **[THUG Pro](https://thugpro.com/)** - Total conversion mod for *Tony Hawk’s Underground 2* with levels from the entire Tony Hawk franchise and multiplayer support.  
+- **[THUG Pro](https://thugpro.com/)** - Total conversion mod for *Tony Hawk’s Underground 2* with levels from the entire Tony Hawk franchise and multiplayer support.
+- **[reTHAWed](https://rethawed.com/)** - Total conversion mod for *Tony Hawk's American Wasteland* with widescreen support, bug fixes, and modding improvements.
 - **[Plutonium](https://plutonium.pw/)** - Custom client for *Call of Duty* (WAW, BO1, BO2, MW3) with dedicated servers, anti-cheat, and modding tools.  
 - **[Venice Unleashed](https://veniceunleashed.net/)** - Custom client for *Battlefield 3* with dedicated servers, anti-cheat, and modding support.  
 - **[Project Rome](https://veniceunleashed.net/project-rome)** - Custom client for *Battlefield: Bad Company 2* with dedicated servers, anti-cheat, and modding support.  
