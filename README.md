@@ -17,6 +17,7 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Meridian 59](https://www.meridian59.com/)** - Open-source Meridian 59
 - **[OpenMW](https://openmw.org/)** - Open-source Morrowind engine
 - **[OpenLara](https://github.com/XProger/OpenLara)** - Open-source Tomb Raider engine
+- **[Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)** - Decompilation of 3D Pinball for Windows
 
 ## Multiplayer Mods  
 - **[THUG Pro](https://thugpro.com/)** - Tony Hawk’s Underground 2 mod
