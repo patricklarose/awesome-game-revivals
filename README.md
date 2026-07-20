@@ -25,7 +25,6 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Plutonium](https://plutonium.pw/)** - Custom Call of Duty client
 - **[Venice Unleashed](https://veniceunleashed.net/)** - Custom Battlefield 3 client
 - **[Project Rome](https://veniceunleashed.net/project-rome)** - Custom Battlefield: Bad Company 2 client
-- **[TurtleWoW](https://turtle-wow.org/)** - Private World of Warcraft server
 - **[Project 1999](https://www.project1999.com/)** - Classic EverQuest server
 - **[FiveM](https://fivem.net/)** - GTA V multiplayer framework
 
