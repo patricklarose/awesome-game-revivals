@@ -20,6 +20,8 @@ A curated list of community projects, ports, remakes, mods, and private servers 
 - **[Space Cadet Pinball](https://github.com/k4zmu2a/SpaceCadetPinball)** - Decompilation of 3D Pinball for Windows
 - **[Skate 3 Recomp](https://github.com/mchughalex/skate3recomp)** - Recompilation of Skate 3 for Windows
 
+- **[Maiko](https://github.com/michidk/maiko)** - Native runtime for The Elder Scrolls Adventures: Redguard on Windows, Linux and macOS. Builds locally from your own game executable; no DOSBox or game files included.
+
 ## Multiplayer Mods  
 - **[THUG Pro](https://thugpro.com/)** - Tony Hawk’s Underground 2 mod
 - **[reTHAWed](https://rethawed.com/)** - Tony Hawk's American Wasteland mod
